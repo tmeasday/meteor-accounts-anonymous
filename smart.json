@@ -1,0 +1,8 @@
+{
+  "name": "accounts-anonymous",
+  "description": "Anonymous account support.",
+  "homepage": "https://github.com/tmeasday/meteor-accounts-anonymous",
+  "author": "Tom Coleman <tom@thesnail.org>",
+  "version": "0.0.1",
+  "git": "https://github.com/tmeasday/meteor-accounts-anonymous.git",
+}
